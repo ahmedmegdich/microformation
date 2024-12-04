@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.example.registry_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class RegistryServerApplicationTests {
 
 	@Test
 	void contextLoads() {
